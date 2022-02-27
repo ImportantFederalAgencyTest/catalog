@@ -19,14 +19,14 @@
       <as-is>true</as-is>
    </merge>
    <modify>
-      <set-parameter param-id="ac-1_prm_2">
+      <set-parameter param-id="ac-01_odp.05">
          <constraint>
             <description>
                <p>at least every 2 years</p>
             </description>
          </constraint>
       </set-parameter>
-      <set-parameter param-id="ac-1_prm_3">
+      <set-parameter param-id="ac-01_odp.07">
          <constraint>
             <description>
                <p>at least semi-annually</p>
