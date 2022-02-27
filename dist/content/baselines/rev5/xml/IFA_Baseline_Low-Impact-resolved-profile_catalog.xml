@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/usnistgov/OSCAL/release-1.0/xml/schema/oscal_complete_schema.xsd" schematypens="http://www.w3.org/2001/XMLSchema" title="OSCAL complete schema"?>
+<?xml-stylesheet type="text/xsl" href="https://gist.githubusercontent.com/aj-stein-nist/7f620193e0567dbca34fee005760d55f/raw/2930e3ff4cc633131a826c8aa09a8d12f00d72d2/show-oscal-html.xsl"?>
 <catalog xmlns="http://csrc.nist.gov/ns/oscal/1.0"
          uuid="a3904451-f900-446e-ada1-f1d132fbcfc2">
    <metadata>
