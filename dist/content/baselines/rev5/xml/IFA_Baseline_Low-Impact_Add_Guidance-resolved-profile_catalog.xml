@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <catalog xmlns="http://csrc.nist.gov/ns/oscal/1.0"
-         uuid="2d91c71e-c6bc-436e-a59b-04634663f1be">
+         uuid="83b132d3-bab3-495c-9d2a-2347ec11d3bc">
    <metadata>
       <title>Important Federal Agency Baseline - Low Impact</title>
       <published>2022-02-26T12:00:00.000005Z</published>
-      <last-modified>2022-02-27T18:17:02.502249Z</last-modified>
+      <last-modified>2022-02-27T18:42:12.407682Z</last-modified>
       <version>0.0.1</version>
       <oscal-version>1.0.1</oscal-version>
       <link rel="resolution-source"
